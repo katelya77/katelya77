@@ -27,13 +27,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=katelya77&theme=transparent&hide_border=true&ring=f6c177&fire=f6c177&currStreakLabel=f6c177&sideLabels=6e7681&dates=6e7681&currStreakNum=e6edf3&sideNums=e6edf3&stroke=21262d)](https://git.io/streak-stats)
 
-<br>
-
-<img height="145" src="https://github-readme-stats.vercel.app/api?username=katelya77&hide_title=true&hide_border=true&show_icons=true&bg_color=0d1117&title_color=f6c177&icon_color=f6c177&text_color=8b949e&rank_icon=github&hide=contribs&card_width=220" />
-&nbsp;&nbsp;
-<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katelya77&hide=css,html&hide_title=true&hide_border=true&layout=compact&langs_count=6&bg_color=0d1117&title_color=f6c177&text_color=8b949e&card_width=250" />
-
-<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
